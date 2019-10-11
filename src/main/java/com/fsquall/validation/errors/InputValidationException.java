@@ -1,4 +1,4 @@
-package com.fsquall.exception.validation;
+package com.fsquall.validation.errors;
 
 public class InputValidationException extends Exception {
     public InputValidationException(String ex) {
